@@ -1,0 +1,15 @@
+{
+    "api_keys": {
+        "openweather": "YOUR_API_KEY"
+    },
+    "preferences": {
+        "voice_rate": 160,
+        "wake_word": "jarvis",
+        "safe_directories": [
+            "C:\\Users\\Abhinav S  Bhat\\Downloads",
+            "C:\\Users\\Abhinav S  Bhat\\Documents",
+            "C:\\Users\\Abhinav S  Bhat\\Desktop",
+            "C:\\Users\\Abhinav S  Bhat\\Pictures"
+        ]
+    }
+}
